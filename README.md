@@ -2,8 +2,10 @@
 
 A simple, browser-based tool to help users generate and convert M3U URLs for IPTV services. This tool runs completely client-side and guarantees user privacy by not storing any data on servers.
 
-![M3U URL Converter Screenshot](![image](https://github.com/user-attachments/assets/72fec45b-1555-4ce1-ae17-7c02d2c3a0f5)
-)
+[M3U URL Converter Screenshot]
+
+![image](https://github.com/user-attachments/assets/08e1142f-2d2a-45e0-b077-812d1de507fc)
+
 
 ## 🌟 Features
 
