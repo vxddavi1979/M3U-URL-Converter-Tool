@@ -1,11 +1,9 @@
 # M3U URL Converter Tool
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
-
 A simple, browser-based tool to help users generate and convert M3U URLs for IPTV services. This tool runs completely client-side and guarantees user privacy by not storing any data on servers.
 
-![M3U URL Converter Screenshot](https://via.placeholder.com/800x450)
+![M3U URL Converter Screenshot](![image](https://github.com/user-attachments/assets/72fec45b-1555-4ce1-ae17-7c02d2c3a0f5)
+)
 
 ## 🌟 Features
 
