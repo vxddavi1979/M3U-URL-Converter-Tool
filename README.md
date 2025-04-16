@@ -55,7 +55,7 @@ An M3U URL is a special link used by IPTV players to access live TV channels, mo
 
 ### Option 2: Clone Repository
 ```bash
-git clone https://github.com/yourusername/m3u-url-converter.git
+git clone https://github.com/vxddavi1979/m3u-url-converter.git
 cd m3u-url-converter
 # Just open the PHP file in your browser
 ```
